@@ -58,7 +58,6 @@ building projects, and solving problems through code.
   <li>Software Development</li>
   <li>Problem Solving</li>
   <li>Open Source</li>
-  <li>Technology and Startups</li>
 </ul>
 
 <hr>
